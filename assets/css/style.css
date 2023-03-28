@@ -2,3 +2,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+body {
+    background-image: url(https://img.freepik.com/premium-photo/playing-cards-poker-dice-phone-green-blue-cloth_446633-2446.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
